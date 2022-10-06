@@ -13,10 +13,6 @@ public class Gaulois {
 	public String getNom() {
 		return nom;
 	}
-	public void parler(String texte) {
-		
-		System.out.println(prendreParole() + "«" + texte + "»");
-	}
 	
 
 	@Override
